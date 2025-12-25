@@ -4,7 +4,7 @@ import time
 
 # 引脚定义（物理引脚编号）
 BtnPin = 11  # 物理引脚11
-Gpin = 13    # 物理引脚13
+Gpin = 13    # 物理引脚13，接LED的R引脚
 Rpin = 12    # 物理引脚12
 
 def setup():
